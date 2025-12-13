@@ -1,6 +1,4 @@
-<<<<<<< Updated upstream
 CHANGE number demo this is  chnaged  in the  remote 
-=======
+
 CHANGE number demo
 CHANGE number demo  this is  changed  for  the  local  
->>>>>>> Stashed changes
