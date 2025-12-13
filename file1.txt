@@ -1,7 +1,5 @@
-<<<<<<< Updated upstream
 REMOTE CHANGE
-=======
 BASE CONTENT
 LOCAL CHANGE
->>>>>>> Stashed changes
 LOCAL CHANGE number   1
+
